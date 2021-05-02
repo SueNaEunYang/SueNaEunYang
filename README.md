@@ -20,6 +20,7 @@
 - 2021.01. GitHub 시작 , 프로그래머스 level 1 도전(Python)  
 - 2021.02. Java, TensorFlow 공부 시도 (시작)  
 - 2021.03. 이클립스에서 IntelliJ로 갈아타면서 본격 Java 공부 시작, Kubernetes in action 시작
+- 2021.05. fastapi 시작
 
 *** 
 #### 😊 그 외 또 하고 있는 것 :  
