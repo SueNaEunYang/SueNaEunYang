@@ -5,15 +5,16 @@
 
 
 #### 🌈 지극히 개인적인 목표는 각각 이렇습니다!  
-- 텐서플로우 공부의 목표는 머신러닝 스터디 자료를 기술조직에 공유해서 공개 북스터디 문화를 시도해보기(?)  
+- 텐서플로우 공부의 목표는 머신러닝 스터디 자료를 기술조직에 공유해서 공개 북스터디 문화를 시도하기
 - Java 공부의 목표는 기술온보딩 교육과정을 보다 능동적으로 설계하고 의견을 제시할 정도의 지식을 갖추기  
-- Java 공부 후에는 클린코드 책을 공부하고 스터디 자료를 만들어서 또 공유하기 
 - Kubernetes 와 도커의 기본 개념을 이해해서 회의 때 맥락을 좀 더 잘 알아듣기
+- FastAPI의 목표는 서버 개발자 도전하기!
 
 #### 📖 공부자료는  
 - 텐서플로우: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Ed)  
-- 자바: <자바의정석 기초편>을 종이책으로 보기 시작했습니다.  
-- Kubernetes : Kubernetes in action 의 Part 1 부분을 공부해보고자 합니다.
+- 자바: <자바의정석 기초편>  
+- Kubernetes : Kubernetes in action 의 Part 1 
+- FastAPI : 공식문서(https://fastapi.tiangolo.com/)
 
 #### 💜 History :  
 - 2020.12. Python 기초 문법 공부  
