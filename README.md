@@ -2,9 +2,9 @@
 ====================
 
 #### 📖 공부자료  
-- TensorFlow: <Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow> (2nd Ed)  
+- TensorFlow: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Ed)  
 - Java: <자바의정석 기초편>  
-- Kubernetes : <Kubernetes in action> 의 Part 1 
+- Kubernetes : Kubernetes in action 의 Part 1 
 - FastAPI : 공식문서(https://fastapi.tiangolo.com/)
 - Unity : 공식튜토리얼
 
