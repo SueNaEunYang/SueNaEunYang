@@ -3,6 +3,7 @@
 
 #### 📖 공부자료  
 - TensorFlow: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Ed)  
+     → Chapter 1 (ML landscape) 내용 일부 정리! @ https://blog.naver.com/artisticsue/222404164379
 - Java: <자바의정석 기초편>  
 - Kubernetes : Kubernetes in action 의 Part 1 
 - FastAPI : 공식문서(https://fastapi.tiangolo.com/)
@@ -19,7 +20,19 @@
 *** 
 #### 😊 그 외 또 하고 있는 것
 - 필요할 때만 공부하는 어도비 프리미어 & 애프터이펙트 & 일러스트레이터
-- XRD 결정구조분석 기술블로그 (전회사에서 일했던 경험과 지식을 잊어버리기 전에 재능기부 중)
 - 개발 일상툰 (인스타툰) <헬로월드> @ https://www.instagram.com/studio_wooltari/
 - 개발자 친구와 함께하는 토이프로젝트 스튜디오 울타리 <내일살거> 🐘
 - 개발자 동생과 함께하는 토이프로젝트 B.A.
+- XRD 결정구조분석 기술블로그 (전회사에서 일했던 경험과 지식을 잊어버리기 전에 재능기부 중)
+
+     → 1화 (Bragg's law) @ https://blog.naver.com/artisticsue/222216795313
+    
+     → 2화 (시료의 특징에 따른 회절 패턴) @ https://blog.naver.com/artisticsue/222222491490
+    
+     → 3화 (Crystal System과 Lattice Parameter) @ https://blog.naver.com/artisticsue/222259659793
+    
+     → 4화 (peak broadening, 2theta 축의 특징) @ https://blog.naver.com/artisticsue/222275247839
+    
+     → to be continued .. :)
+    
+
