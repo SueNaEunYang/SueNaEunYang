@@ -2,19 +2,28 @@
 ====================
 
 #### 📖 공부자료  
-- TensorFlow: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Ed)  
+- Android Studio && Kotlin : Google Developers 공식 튜토리얼 문서
+- TensorFlow : Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Ed)  
      → Chapter 1 (ML landscape) 내용 일부 정리! @ https://blog.naver.com/artisticsue/222404164379
-- Java: <자바의정석 기초편> 
+- Java : <자바의정석 기초편> 
 - FastAPI : 공식문서(https://fastapi.tiangolo.com/)
+- Python : Python Crash Course (2nd Ed), 사실 구글링해서 쓰는게 더 많음
 
-#### 💜 개발공부 히스토리
+#### 💜 가끔만 하는 개발공부의 히스토리
 - 2020.12. Python 기초 문법 공부  
 - 2021.01. GitHub 시작 , 프로그래머스 level 1 도전(Python)  
 - 2021.02. Java, TensorFlow 공부 시도 (시작)  
 - 2021.03. 이클립스에서 IntelliJ로 갈아타면서 본격 Java 공부 시작, Kubernetes in action 시작
 - 2021.05. Java를 잠시 멈추고 fastapi 시작, 핸즈온 머신러닝 Chapter 1을 드디어 다 봄
 - 2021.06. Unity 물리엔진 맛보기 하려다가 세팅만 하고 멈춤
-- 2021.08. 다시 알고리즘 문제를 풀어보려 함
+- 2021.08. 다시 알고리즘 문제를 풀어보려 함 + 안드로이드와 기초 코틀린 공부
+- 2021.09. 안드로이드와 기초 코틀린 공부
+
+#### 💚 안드일기
+- BTS 뷔의 생일을 축하하는 앱 만들기 https://blog.naver.com/artisticsue/222481712588
+- 비투비의 포토카드를 랜덤으로 뽑는 앱 https://blog.naver.com/artisticsue/222493733671
+- 마라탕의 가격을 리턴해주는 앱 https://blog.naver.com/artisticsue/222495510938
+- to be continued .. :)
 
 *** 
 #### 😊 그 외 또 하고 있는 것
@@ -30,6 +39,8 @@
      → 3화 (Crystal System과 Lattice Parameter) @ https://blog.naver.com/artisticsue/222259659793
     
      → 4화 (peak broadening, 2theta 축의 특징) @ https://blog.naver.com/artisticsue/222275247839
+     
+     → 5화 (XRF, SEM, TEM, AFM 얕게 훑어보기) @ https://blog.naver.com/artisticsue/222440245703
     
      → to be continued .. :)
     
